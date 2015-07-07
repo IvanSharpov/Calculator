@@ -1,0 +1,21 @@
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator_2._0.Form1.resources
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator_2._0.Properties.Resources.resources
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csproj.GenerateResource.Cache
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+c:\users\czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\Calculator 2.0\obj\Debug\Calculator 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Czakk\Documents\Visual Studio 2012\Projects\Calculator 2.0\bin\Debug\Calculator 2.0.exe.config
+C:\Users\Czakk\Documents\Visual Studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator 2.0.exe
+C:\Users\Czakk\Documents\Visual Studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator 2.0.pdb
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\bin\Debug\Calculator 2.0.exe
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\bin\Debug\Calculator 2.0.pdb
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator_2._0.Form1.resources
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator_2._0.Properties.Resources.resources
+C:\Users\Czakk\documents\visual studio 2012\Projects\Calculator 2.0\obj\Debug\Calculator 2.0.csproj.GenerateResource.Cache
+C:\Users\Czakk\Calculator\bin\Debug\Calculator 2.0.exe.config
+C:\Users\Czakk\Calculator\obj\Debug\Calculator 2.0.exe
+C:\Users\Czakk\Calculator\obj\Debug\Calculator 2.0.pdb
